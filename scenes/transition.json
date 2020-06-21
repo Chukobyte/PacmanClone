@@ -1,0 +1,12 @@
+{
+  "id": "Transition",
+  "layer": 0,
+  "components": [
+    {
+      "type": "script_class",
+      "module": "scripts.transition",
+      "class": "Transition"
+    }
+  ],
+  "entities": []
+}

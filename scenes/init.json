@@ -1,0 +1,12 @@
+{
+  "id": "Init",
+  "layer": 0,
+  "components": [
+    {
+      "type": "script_class",
+      "module": "scripts.init",
+      "class": "Init"
+    }
+  ],
+  "entities": []
+}
